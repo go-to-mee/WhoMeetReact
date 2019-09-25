@@ -1,2 +1,0 @@
-# WhoMeetReact
-Created with CodeSandbox
